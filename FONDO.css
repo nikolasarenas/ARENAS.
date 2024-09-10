@@ -1,0 +1,9 @@
+.header {
+    background-image: url('imagenes/fondo\ 2.jpg');
+    background-size: cover; 
+    background-position: center; 
+    padding: 2rem;
+    color: #fff; 
+}
+
+
